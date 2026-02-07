@@ -31,30 +31,30 @@ CREATE TABLE recipes (
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Launch the program
+2. Use the menu to: Add a new meal and its recipe. Update an existing meal or its ingredients. Delete a meal. View a meal’s description and ingredients.
+3. Follow the on-screen prompts for entering meal names, descriptions, and ingredient quantities.
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
-*
+* Python 3.10+
+* PostgreSQL 15+
+* SQLAlchemy 2.x
+* psycopg2 2.x (PostgreSQL adapter for Python)
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* https://www.postgresql.org/docs/
+* https://docs.sqlalchemy.org/en/20/
+* https://youtu.be/skHrcqRRWLs?si=4MMnPcQ5BPaPHViF
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* Add/Edit instructions
+* View Common Ingredients between recipes.
